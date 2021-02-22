@@ -1,7 +1,0 @@
-Hola Este es Ubuntu Rasp!
-
-Como estas. Ayudame que estoy tirando detrás del Escritorio
-
-This is a Test in branch Test!
-
-By UbuntuRasp
